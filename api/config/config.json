@@ -1,12 +1,14 @@
 {
   "development": {
     "username": "postgres",
-    "password": "pandasneezing",
-    "database": "gamesystem",
-    "host": "127.0.0.1",
+    "password": "12334",
+    "database": "gamesystemros",
+    "host": "148.226.188.17",
     "dialect": "postgres",
     "operatorsAliases": false
   },
+
+  
   "test": {
     "username": "root",
     "password": null,
@@ -15,11 +17,13 @@
     "dialect": "postgres",
     "operatorsAliases": false
   },
+
+
   "production": {
     "username": "postgres",
-    "password": "pandasneezing",
-    "database": "gamesystem",
-    "host": "127.0.0.1",
+    "password": "12334",
+    "database": "gamesystemros",
+    "host": "148.226.188.17",
     "dialect": "postgres",
     "operatorsAliases": false
   }
